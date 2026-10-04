@@ -1,0 +1,10 @@
+{
+  "name": "nvaex",
+  "version": "0.1.0",
+  "description": "NvÆx agentk: an open agent toolkit of skills, hooks and protocols. Skills answer to their bare names (/subagent-protocol); /nvaex:<skill> is the fallback on a name clash.",
+  "author": { "name": "Clovis-Merovingian", "url": "https://github.com/c10vis-poem" },
+  "repository": "https://github.com/c10vis-poem/NvAEx-agentk",
+  "license": "MIT",
+  "keywords": ["subagents", "orchestration", "agent-toolkit", "hooks"],
+  "skills": ["./skills/subagent-protocol"]
+}
