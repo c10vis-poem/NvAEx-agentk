@@ -1,0 +1,14 @@
+{
+  "name": "nvaex",
+  "owner": { "name": "Clovis-Merovingian", "url": "https://github.com/c10vis-poem" },
+  "description": "NvÆx agentk, installable as a Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "nvaex",
+      "source": "./",
+      "description": "Open agent toolkit: skills, hooks and protocols.",
+      "category": "productivity",
+      "keywords": ["subagents", "orchestration", "agent-toolkit"]
+    }
+  ]
+}
